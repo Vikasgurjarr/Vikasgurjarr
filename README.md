@@ -1,67 +1,71 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm a Passionate Developer!</h1>
-<h3 align="center">Full Stack Developer | Java Enthusiast | Problem Solver 🚀</h3>
+# Hi, I’m YOUR_NAME 👋
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A64F1&width=435&lines=Full+Stack+Developer;Java+Backend+Enthusiast;Crafting+Smart+Solutions;Learning+Every+Day;Building+Impactful+Projects" alt="Typing SVG" />
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=social)](https://github.com/YOUR-USERNAME)
+[![Top Langs](https://img.shields.io/github/languages/top/YOUR-USERNAME?color=0e75b6&style=flat-square)](https://github.com/YOUR-USERNAME?tab=repositories)
+[![Website](https://img.shields.io/website?url=https://your-website.com&style=flat-square)](https://your-website.com)
 
-<!-- Socials -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+---
+
+## About Me
+I’m **YOUR_NAME** — a software developer focused on building reliable, maintainable web apps and APIs.  
+I love clean code, practical architecture, and learning new tools every week.
+
+- 🔭 I’m currently working on: **Bookworm** (an ebook & audiobook store)
+- 🌱 I’m learning: advanced React patterns & system design
+- 👯 I’m open to collaborating on backend / full-stack projects
+- ⚡ Fun fact: I enjoy solving DSA problems and optimizing performance
+
+---
+
+## Tech Stack
+**Languages & Frameworks**
+- Java • Spring Boot • JavaScript (ES6+) • React • Next.js • Node.js
+- SQL • MySQL • MongoDB
+
+**Tools**
+- Git • Docker • Postman • VS Code • Linux (bash)  
+**Other**
+- JWT • REST • WebSockets • Redis
+
+---
+
+## Projects (selected)
+- **Bookworm** — Online ebooks & audiobooks store — `React + Spring Boot + MySQL`  
+  _Features:_ JWT auth, cart, rent/buy flows, search & filters.
+
+- **Project 2** — Short 1–line description, link to repo or demo.
+
+> See my repositories for more projects and demos.  
+
+---
+
+## GitHub Stats
+<!-- Replace YOUR-USERNAME with your GitHub username -->
+<p align="left">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=default" />
+  <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default" />
 </p>
 
 ---
 
-### 🧩 About Me
-
-- 💡 Passionate about building smart and scalable applications
-- 🛠️ Focused on **Java, MERN stack**
-- 🚀 Always experimenting with new tools and technologies
-- 🎯 Mission: Create solutions that make an impact
-- ✨ I believe in constant growth and deep learning
+## Want to connect?
+- 🌐 Website: https://your-website.com  
+- ✉️ Email: your.email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
 
 ---
 
-### ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode,figma" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### Quick tips to personalize
+1. Replace `YOUR-USERNAME` and `YOUR_NAME` with your real values.  
+2. Replace website/links/email.  
+3. Use a PNG signature or avatar if you want a personal touch at the top.  
+4. To change theme of stats cards, use `?theme=radical` (or `dark`, `tokyonight`, `gruvbox`, etc.) in the `github-readme-stats` URLs.
 
 ---
 
-### 🐍 Contribution Snake
+Thanks for reading — if you want, I can:
+- customize the README for your exact projects and skills (I’ll fill the project descriptions with real text),
+- add a short tagline or animated GIF,
+- or make a one-line LinkedIn-style bio for the top.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### ✨ Quote of the Day
-
-> "The best way to predict the future is to invent it." — *Alan Kay*
-
----
-
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+Which one do you want next? 🚀
